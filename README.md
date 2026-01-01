@@ -38,4 +38,4 @@ Designing clear and executive-friendly reports
 Analyzing operational and financial healthcare data   
 
 ## 📷 Dashboard 
-<img src="https://github.com/Abhishek-Bhise1606/BLINKET-GROCERY-SALES-ANALYSICS-DASHBORD-POWER-BI/blob/main/BLINKET%20GROCERY%20SALES%20ANALYSICS%20DASHBORD%20POWER%20BI.png" width="80%">
+<img src="https://github.com/Dhanashri0616/-Hospital-Visits-Performance-Dashboard-Power-BI/blob/main/Hospital%20Visits%20Performance%20Dashboard%20.jpeg" width="80%">
